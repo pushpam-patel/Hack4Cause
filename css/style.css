@@ -126,7 +126,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header.header-fixed {
-  background: rgba(26, 23, 23, 0.9);
+  background: rgba(26, 23, 23, 0.99);
   padding: 20px 0;
   height: 72px;
   transition: all 0.5s;
@@ -151,7 +151,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero:before {
   content: "";
-  background: rgba(0, 0, 0, 0.6);
+  background: rgba(0, 0, 0, 0.8);
   position: absolute;
   bottom: 0;
   top: 0;
